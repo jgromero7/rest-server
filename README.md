@@ -21,7 +21,7 @@ Rest-Server usa varios proyectos de código abierto para funcionar correctamente
 * [nodemon](https://www.npmjs.com/package/nodemon) - Herramienta de desarrollo reinicia automáticamente la aplicación de node cuando se detectan cambios de archivos en el directorio.
 
 
-### Installation
+### Instalación
 
 Rest-Server requiere [Node.js](https://nodejs.org/) v10.4 + para ejecutarse.
 
